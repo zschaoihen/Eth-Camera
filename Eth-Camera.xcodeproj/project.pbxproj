@@ -16,7 +16,6 @@
 		7DC180B7229C026E00A9DF9E /* Eth_CameraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DC180B6229C026E00A9DF9E /* Eth_CameraUITests.swift */; };
 		7DC180C5229CD3D300A9DF9E /* TestLoadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DC180C4229CD3D300A9DF9E /* TestLoadingViewController.swift */; };
 		7DC180C7229CD99A00A9DF9E /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DC180C6229CD99A00A9DF9E /* PreviewViewController.swift */; };
-		7DD724FD22A251F300EAD0BC /* ResNet_dt2_3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7DD724FC22A251F300EAD0BC /* ResNet_dt2_3.mlmodel */; };
 		7DE8B24622A3618300DCA090 /* ResNet_dt2_4.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7DE8B24522A3618300DCA090 /* ResNet_dt2_4.mlmodel */; };
 /* End PBXBuildFile section */
 
@@ -53,7 +52,6 @@
 		7DC180B8229C026E00A9DF9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7DC180C4229CD3D300A9DF9E /* TestLoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestLoadingViewController.swift; sourceTree = "<group>"; };
 		7DC180C6229CD99A00A9DF9E /* PreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PreviewViewController.swift; path = ../PreviewViewController.swift; sourceTree = "<group>"; };
-		7DD724FC22A251F300EAD0BC /* ResNet_dt2_3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ResNet_dt2_3.mlmodel; sourceTree = "<group>"; };
 		7DE8B24522A3618300DCA090 /* ResNet_dt2_4.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ResNet_dt2_4.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -110,7 +108,6 @@
 				7DC180C6229CD99A00A9DF9E /* PreviewViewController.swift */,
 				7DC1809A229C026C00A9DF9E /* Main.storyboard */,
 				7DE8B24522A3618300DCA090 /* ResNet_dt2_4.mlmodel */,
-				7DD724FC22A251F300EAD0BC /* ResNet_dt2_3.mlmodel */,
 				7DC1809D229C026E00A9DF9E /* Assets.xcassets */,
 				7DC180AA229C026E00A9DF9E /* Eth-CameraTests */,
 				7DC1809F229C026E00A9DF9E /* LaunchScreen.storyboard */,
@@ -269,7 +266,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DC180C5229CD3D300A9DF9E /* TestLoadingViewController.swift in Sources */,
-				7DD724FD22A251F300EAD0BC /* ResNet_dt2_3.mlmodel in Sources */,
 				7DC18099229C026C00A9DF9E /* ViewController.swift in Sources */,
 				7DE8B24622A3618300DCA090 /* ResNet_dt2_4.mlmodel in Sources */,
 				7DC18097229C026C00A9DF9E /* AppDelegate.swift in Sources */,
